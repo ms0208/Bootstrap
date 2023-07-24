@@ -1,0 +1,11 @@
+.row{
+    font-weight: bolder;
+
+}
+.row a{
+    color:black;
+    text-decoration: none;
+}
+.row a:hover{
+    color:red;
+}
